@@ -25,4 +25,4 @@ Acesse online: [sandycavalcanti.vercel.app](https://sandycavalcanti.vercel.app/)
 Clone o repositório:
 
 ```bash
-git clone https://github.com/sandycavalcanti/Portifolio.git
+git clone https://github.com/sandycavalcanti/Portfolio.git
